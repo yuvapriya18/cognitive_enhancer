@@ -20,25 +20,6 @@ Cognitive Enhancer is a mobile-first Flutter application designed to aid childre
 - Firebase (or local state persistence depending on deployment)
 - Cross-platform support: Android, iOS, Web, Desktop
 
----
-
-## 🗂️ Folder Structure
-
-/maze
-├── lib/ # Main Flutter codebase
-│ ├── main.dart
-│ ├── login_page.dart
-│ ├── maze.dart
-│ ├── memory.dart
-│ ├── math_quiz.dart
-│ └── order_game.dart
-├── android/ # Android native integration
-├── ios/ # iOS native integration
-├── web/ # Web deployment
-├── assets/ # Static assets like images
-└── pubspec.yaml # Dependency config
-
-
 
 ---
 
